@@ -1,5 +1,5 @@
 {
-  "name": "finance-app",
+  "name": "sistemacontrolefinanceiro",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,12 +11,15 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.95.3",
+    "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "framer-motion": "^12.34.0",
     "lucide-react": "^0.563.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "tailwind-merge": "^3.4.0"
+    "react-router-dom": "^7.13.0",
+    "tailwind-merge": "^3.4.0",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
